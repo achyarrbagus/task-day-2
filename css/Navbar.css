@@ -50,15 +50,16 @@ body {
 }
 /* card-foto */
 .card-foto {
-  padding: 50px;
+  padding: 30px;
   display: flex;
-  width: 80%;
+  width: 90%;
   border-radius: 10px;
-  column-gap: 10%;
+  column-gap: 5%;
 }
 .card-foto-left {
   text-align: justify;
-  flex: 60%;
+}
+.shadow-card {
 }
 .shadow-card,
 .shadow-card img {
